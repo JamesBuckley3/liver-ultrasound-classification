@@ -22,7 +22,7 @@ This project walks through a complete ML pipeline:
 
 ## 🧠 Tools used:
 
-![Python](images/python_logo.png "Python")![PyTorch](images/pytorch-logo-orange-minimalist-design-transparent-background(1).png "PyTorch")![VSCode](images/vscode_logo.png "VSCode")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Jupyter Notebooks](images/jupyter_logo.png "Jupyter Notebooks")
+![Python](images/python_logo.png "Python")![PyTorch](images/pytorch_logo.png "PyTorch")![VSCode](images/vscode_logo.png "VSCode")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Jupyter Notebooks](images/jupyter_logo.png "Jupyter Notebooks")
 
 
 ## 📂 File Structure
